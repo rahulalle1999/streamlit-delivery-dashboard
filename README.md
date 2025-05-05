@@ -1,4 +1,5 @@
 # 🚚 EZ Street Deliveries – Streamlit Dashboard
+🔗 **Live App:** [Click here to view](https://app-delivery-dashboard-map2mj8vkbc5uhzixum5nj.streamlit.app/)
 
 A simple, elegant web-based delivery dashboard built using **Streamlit**, **Pandas**, and **Plotly**. It lets you visualize your delivery company’s performance with real-time insights based on uploaded CSV files.
 
