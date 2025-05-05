@@ -1,0 +1,11 @@
+OrderID,Pickup,Drop,Distance_km,Time_taken_min,Driver,Cost,Status
+1001,Dallas,Austin,320,190,John,50,Delivered
+1002,Houston,Dallas,280,170,Mike,48,Delivered
+1003,Austin,Houston,250,160,Sara,45,Cancelled
+1004,Dallas,Houston,310,185,John,52,Delivered
+1005,Austin,Dallas,300,180,Sara,49,Delivered
+1006,Houston,Austin,260,165,Mike,46,Delivered
+1007,Dallas,Austin,330,195,Sara,53,Delivered
+1008,Houston,Dallas,290,175,Mike,47,Delivered
+1009,Austin,Houston,240,155,John,44,Cancelled
+1010,Dallas,Houston,315,188,Sara,51,Delivered
